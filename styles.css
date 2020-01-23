@@ -1,0 +1,23 @@
+/* 
+Dark theme is supported on:
+- Chrome/Edge 76
+- Firefox 67
+- Safari 12.1 (Including iOS)
+*/
+
+/* Light Theme*/
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: white;
+        color: black;
+    }
+}
+
+/* Dark Theme */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
+
