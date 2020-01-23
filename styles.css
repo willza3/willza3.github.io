@@ -21,3 +21,14 @@ Dark theme is supported on:
     }
 }
 
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
