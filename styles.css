@@ -16,7 +16,7 @@ Dark theme is supported on:
 /* Dark Theme */
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: black;
+        background-color: #313031;
         color: white;
     }
 }
